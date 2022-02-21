@@ -14,7 +14,7 @@ Készítsen programot kodol néven a következő feladatok végrehajtására!
 
 1. Kérjen be a felhasználótól egy maximum 255 karakternyi, nem üres szöveget! A továbbiakban ez a nyílt szöveg.
 2. Alakítsa át a nyílt szöveget, hogy a későbbi kódolás feltételeinek megfeleljen!
-A kódolás feltételei:
+A kódolás feltételei:\
 • A magyar ékezetes karakterek helyett ékezetmenteseket kell használni. (Például á helyett a; ő helyett o stb.)\
 • A nyílt szövegben az átalakítás után csak az angol ábécé betűi szerepelhetnek.\
 • A nyílt szöveg az átalakítás után legyen csupa nagybetűs.\
