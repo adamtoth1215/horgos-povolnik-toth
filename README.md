@@ -15,10 +15,9 @@ Készítsen programot kodol néven a következő feladatok végrehajtására!
 1. Kérjen be a felhasználótól egy maximum 255 karakternyi, nem üres szöveget! A továbbiakban ez a nyílt szöveg.
 2. Alakítsa át a nyílt szöveget, hogy a későbbi kódolás feltételeinek megfeleljen!
 A kódolás feltételei:
-• A magyar ékezetes karakterek helyett ékezetmenteseket kell használni. (Például á he-
-lyett a; ő helyett o stb.)
-• A nyílt szövegben az átalakítás után csak az angol ábécé betűi szerepelhetnek.
-• A nyílt szöveg az átalakítás után legyen csupa nagybetűs.
+• A magyar ékezetes karakterek helyett ékezetmenteseket kell használni. (Például á helyett a; ő helyett o stb.)\
+• A nyílt szövegben az átalakítás után csak az angol ábécé betűi szerepelhetnek.\
+• A nyílt szöveg az átalakítás után legyen csupa nagybetűs.\
 3. Írja ki a képernyőre az átalakított nyílt szöveget!
 4. Kérjen be a felhasználótól egy maximum 5 karakteres, nem üres kulcsszót! A kulcsszó a kódolás feltételeinek megfelelő legyen! (Sem átalakítás, sem ellenőrzés nem kell!) Alakítsa át a kulcsszót csupa nagybetűssé!
 5. A kódolás első lépéseként fűzze össze a kulcsszót egymás után annyiszor, hogy az így kapott karaktersorozat (továbbiakban kulcsszöveg) hossza legyen egyenlő a kódolandó szöveg hosszával! Írja ki a képernyőre az így kapott kulcsszöveget!
