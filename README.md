@@ -25,7 +25,7 @@ lyett a; ő helyett o stb.)
 6. A kódolás második lépéseként a következőket hajtsa végre! Vegye az átalakított nyílt szöveg első karakterét, és keresse meg a vtabla.dat fájlból beolvasott táblázat első oszlopában! Ezután vegye a kulcsszöveg első karakterét, és keresse meg a táblázat első sorában! Az így kiválasztott sor és oszlop metszéspontjában lévő karakter lesz a kódolt szöveg első karaktere. Ezt ismételje a kódolandó szöveg többi karakterével is!
 7. Írja ki a képernyőre és a kodolt.dat fájlba a kapott kódolt szöveget!
 
-Példa:
+Példa:\
 Nyílt szöveg: Ez a próba szöveg, amit kódolunk!\
 Szöveg átalakítása: EZAPROBASZOVEGAMITKODOLUNK\
 Kulcsszó: auto\
