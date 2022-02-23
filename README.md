@@ -1,4 +1,4 @@
-# baloghb-patkos-kuchta-hajnal
+# horgos-povolnik-toth
 
 Már a XVI. században komoly titkosítási módszereket találtak ki az üzenetek elrejtésére. A század egyik legjobb kriptográfusának Blaise de Vigenère-nek a módszerét olvashatja a következőkben. A kódoláshoz egy táblázatot és egy ún. kulcsszót használt.
 A tábla adatait a vtabla.dat fájlban találja a következő formában.
