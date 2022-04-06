@@ -1,4 +1,4 @@
-#1. Feladat - Povolnik
+#1. Feladat - Povolnik Gergő
 
 
 
